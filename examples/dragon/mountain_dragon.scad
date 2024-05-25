@@ -1,16 +1,16 @@
-use <helix.scad>
-use <along_with.scad>
-use <curve.scad>
-use <sweep.scad>
-use <shape_circle.scad>
-use <bezier_curve.scad>
-use <path_scaling_sections.scad>
-use <experimental/worley_sphere.scad>
-use <dragon_head.scad>
-use <dragon_scales.scad>
-use <dragon_foot.scad>
-use <path_extrude.scad>
-use <bezier_curve.scad>
+use <dotSCAD\helix.scad>
+use <dotSCAD\along_with.scad>
+use <dotSCAD\curve.scad>
+use <dotSCAD\sweep.scad>
+use <dotSCAD\shape_circle.scad>
+use <dotSCAD\bezier_curve.scad>
+use <dotSCAD\path_scaling_sections.scad>
+use <dotSCAD\experimental/worley_sphere.scad>
+use <dotSCAD\dragon_head.scad>
+use <dotSCAD\dragon_scales.scad>
+use <dotSCAD\dragon_foot.scad>
+use <dotSCAD\path_extrude.scad>
+use <dotSCAD\bezier_curve.scad>
 
 r1 = 25;
 r2 = 15;
